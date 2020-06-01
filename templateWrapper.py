@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from wrapperInterface import WrapperInterface
+from .wrapperInterface import WrapperInterface
 
 class TemplateWrapper(WrapperInterface):
 	def __init__(self, apiKey: str):
