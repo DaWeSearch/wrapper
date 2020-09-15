@@ -1,4 +1,6 @@
-# DaWeSys Group 2 Wrapper
+# DaWeSearch wrapper
+Deprecated! Continued in the [backend](https://github.com/DaWeSearch/backend) repo.
+
 This repo contains all current wrapper, an interface and a template class for writing an own wrapper.
 
 ### Databases
